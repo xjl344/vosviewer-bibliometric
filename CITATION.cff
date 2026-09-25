@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "如果本工具对你的研究有帮助，请按以下格式引用。"
+title: "VOSviewer Bibliometric"
+abstract: >-
+  把 VOSviewer 的关键词共现分析全自动化。一条命令完成：文献解析、
+  关键词清洗与同义词归并、共现网络构建、VOSviewer 布局聚类、
+  三视图导出（网络/叠加/密度）、以及含方法学段落与研究空白显著性检验的分析报告。
+  支持 10 种文献格式，含 CNKI 中文文献的完整适配。
+type: software
+version: 1.0.0
+date-released: "2026-09-24"
+license: MIT
+repository-code: "https://github.com/xjl344/vosviewer-bibliometric"
+url: "https://github.com/xjl344/vosviewer-bibliometric"
+keywords:
+  - bibliometrics
+  - scientometrics
+  - VOSviewer
+  - co-occurrence analysis
+  - keyword network
+  - literature review
+  - 文献计量
+  - 关键词共现
+authors:
+  - family-names: "Xie"
+    given-names: "Junlei"
+preferred-citation:
+  type: software
+  title: "VOSviewer Bibliometric: Automated keyword co-occurrence analysis"
+  year: 2026
+  version: 1.0.0
+  authors:
+    - family-names: "Xie"
+      given-names: "Junlei"

@@ -1,0 +1,133 @@
+label	replace by
+the elderly	older adult
+elderly people	older adult
+elderly	older adult
+aged people	older adult
+aged	older adult
+senior citizen	older adult
+senior citizens	older adult
+older people	older adult
+older persons	older adult
+older adults	older adult
+elders	older adult
+living alone	solitary living
+living-alone	solitary living
+solo living	solitary living
+live alone	solitary living
+living alone elderly	solitary living
+smart homes	smart home
+intelligent home	smart home
+smart house	smart home
+home automation	smart home
+domestic automation	smart home
+smart home system	smart home
+IoT	internet of things
+IOT	internet of things
+internet of thing	internet of things
+AAL	ambient assisted living
+ambient assistive living	ambient assisted living
+ambient assisted living environment	ambient assisted living
+healthcare monitoring	health monitoring
+health care monitoring	health monitoring
+health monitoring system	health monitoring
+physiological monitoring	health monitoring
+wearable sensor	wearable device
+wearable sensors	wearable device
+wearables	wearable device
+wearable technology	wearable device
+wearable devices	wearable device
+wearable	wearable device
+fall recognition	fall detection
+fall detection system	fall detection
+fall detection algorithm	fall detection
+physiological parameters	vital signs
+physiological signals	vital signs
+vital sign	vital signs
+telemonitoring	remote monitoring
+remote health monitoring	remote monitoring
+remote patient monitoring	remote monitoring
+human activity recognition	activity recognition
+HAR	activity recognition
+behaviour recognition	activity recognition
+behavior recognition	activity recognition
+activity recognition system	activity recognition
+non-intrusive sensing	unobtrusive sensing
+contactless sensing	unobtrusive sensing
+unobtrusive monitoring	unobtrusive sensing
+affordances	affordance
+affordance theory	affordance
+affordance-based design	affordance
+AmI	ambient intelligence
+ambient intelligent	ambient intelligence
+intelligent environment	ambient intelligence
+context-aware	context awareness
+context awareness	context awareness
+situational awareness	context awareness
+context aware computing	context awareness
+HCI	human-computer interaction
+human machine interaction	human-computer interaction
+human computer interaction	human-computer interaction
+assistive technologies	assistive technology
+assistive devices	assistive technology
+gerontechnology	assistive technology
+assistive device	assistive technology
+ageing in place	aging in place
+age in place	aging in place
+independent life	independent living
+ageing	aging
+elderly care	elderly care
+aged care	elderly care
+elder care	elderly care
+care for the elderly	elderly care
+elderly healthcare	elderly care
+homecare	home care
+domiciliary care	home care
+home-based care	home care
+wireless sensor network	sensor network
+WSN	sensor network
+wireless sensor networks	sensor network
+sensor networks	sensor network
+smart healthcare	smart healthcare
+intelligent healthcare	smart healthcare
+e-health	digital health
+ehealth	digital health
+digital health	digital health
+QoL	quality of life
+quality-of-life	quality of life
+ML	machine learning
+deep learning	deep learning
+DL	deep learning
+privacy	privacy
+data privacy	privacy
+security	security
+data security	security
+usability	usability
+user acceptance	user acceptance
+technology acceptance	user acceptance
+TAM	technology acceptance
+solitude	solitary living
+loneliness	loneliness
+social isolation	social isolation
+social connectedness	social connectedness
+smart cities	smart city
+active ageing	active aging
+active ageing	active aging
+successful ageing	active aging
+healthy ageing	healthy aging
+review	
+systematic review	
+literature review	
+scoping review	
+research trends	
+future directions	
+future research	
+state of the art	
+bibliometric analysis	
+case study	
+challenges	
+opportunities	
+research agenda	
+conceptual framework	
+survey	
+empirical study	
+pilot study	

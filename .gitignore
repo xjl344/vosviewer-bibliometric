@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 运行时（Java + VOSviewer.jar，约 115MB，不入库）
+runtime/
+.vosviewer-bibliometric/
+
+# 分析输出
+outputs/
+outputs_*/
+figures/
+vosviewer_input/
+
+# 下载的文献数据（通常有版权，不要提交）
+# 注意：下面的白名单必须覆盖所有需要入库的 .txt
+*.txt
+!presets/*.txt
+!examples/*.txt
+!docs/*.txt
+!requirements.txt
+savedrecs*
+CNKI-*
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 测试与临时
+.pytest_cache/
+.coverage
+htmlcov/
+tmp/
+*.log

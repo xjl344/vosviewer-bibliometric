@@ -1,0 +1,83 @@
+name: tests
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: 解析层与算法层测试（${{ matrix.os }} / Python ${{ matrix.python-version }}）
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        python-version: ["3.10", "3.12"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: 安装可选依赖
+        run: python -m pip install --upgrade pip networkx
+
+      - name: 运行测试
+        run: python tests/test_parsers.py
+
+  # 不依赖 Java / VOSviewer，只验证解析与分析链路能跑通
+  smoke:
+    name: 端到端冒烟测试（analyze 阶段，无需 Java）
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装可选依赖
+        run: python -m pip install --upgrade pip networkx
+
+      - name: 跑 analyze 阶段（英文示例）
+        run: |
+          python scripts/run_pipeline.py \
+            --input examples/sample_wos.txt \
+            --outdir /tmp/out-wos \
+            --min-occurrences 3 \
+            --stage analyze
+
+      - name: 跑 analyze 阶段（中文示例）
+        run: |
+          python scripts/run_pipeline.py \
+            --input examples/cnki_refworks.txt \
+            --outdir /tmp/out-cnki \
+            --min-occurrences 3 \
+            --stage analyze
+
+      - name: 校验产出文件
+        run: |
+          set -e
+          for d in /tmp/out-wos /tmp/out-cnki; do
+            test -f "$d/分析报告.md"        || { echo "缺少 $d/分析报告.md"; exit 1; }
+            test -f "$d/vosviewer_input/map.txt"     || { echo "缺少 $d/map.txt"; exit 1; }
+            test -f "$d/vosviewer_input/network.txt" || { echo "缺少 $d/network.txt"; exit 1; }
+            test -f "$d/同义词归并复核清单.md" || { echo "缺少 $d/复核清单"; exit 1; }
+            echo "OK  $d"
+          done
+
+      - name: 上传产出（便于排查）
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: smoke-output
+          path: |
+            /tmp/out-wos
+            /tmp/out-cnki
+          if-no-files-found: warn

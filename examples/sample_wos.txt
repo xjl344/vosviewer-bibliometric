@@ -1,0 +1,2103 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on assistive technology independent living smart home (1)
+SO GERONTOLOGIST
+DE assistive technology; independent living; smart home; elderly care
+ID internet of things; solitary living; activity recognition; assistive technology; home automation
+AB This study investigates assistive technology, independent living, smart home, elderly care in the context of ageing in place.
+PY 2022
+TC 9
+DI 10.1000/test.0001
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation sensor network ambient assisted living (2)
+SO J MED INTERNET RES
+DE home automation; sensor network; ambient assisted living; assistive technology
+ID remote monitoring; home automation; ambient intelligence; older adult; ambient assisted living
+AB This study investigates home automation, sensor network, ambient assisted living, assistive technology in the context of ageing in place.
+PY 2024
+TC 2
+DI 10.1000/test.0002
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation internet of things remote monitoring (3)
+SO APPL SCI-BASEL
+DE home automation; internet of things; remote monitoring; sensor network; smart home
+ID activity recognition; fall detection; ambient assisted living; home automation; solitary living
+AB This study investigates home automation, internet of things, remote monitoring, sensor network, smart home in the context of ageing in place.
+PY 2017
+TC 23
+DI 10.1000/test.0003
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation health monitoring smart home (4)
+SO APPL SCI-BASEL
+DE home automation; health monitoring; smart home; fall detection; vital signs
+ID aging in place; remote monitoring; solitary living; independent living; ambient assisted living
+AB This study investigates home automation, health monitoring, smart home, fall detection, vital signs in the context of ageing in place.
+PY 2024
+TC 1
+DI 10.1000/test.0004
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on older adult aging in place internet of things (5)
+SO COMPUT HUM BEHAV
+DE older adult; aging in place; internet of things; home automation; ambient assisted living
+ID assistive technology; independent living; home care; ambient intelligence; wearable sensor
+AB This study investigates older adult, aging in place, internet of things, home automation, ambient assisted living in the context of ageing in place.
+PY 2023
+TC 25
+DI 10.1000/test.0005
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition assistive technology invisible intelligence (6)
+SO J AMB INTEL SMART ENVIR
+DE activity recognition; assistive technology; invisible intelligence; ambient assisted living; smart home; health monitoring; home automation
+ID sensor network; wearable sensor; independent living; ambient intelligence; health monitoring
+AB This study investigates activity recognition, assistive technology, invisible intelligence, ambient assisted living, smart home, health monitoring, home automation in the context of ageing in place.
+PY 2019
+TC 26
+DI 10.1000/test.0006
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on vital signs home automation activity recognition (7)
+SO APPL SCI-BASEL
+DE vital signs; home automation; activity recognition; remote monitoring; smart home; internet of things; ambient assisted living
+ID internet of things; home care; aging in place; sensor network; ambient assisted living
+AB This study investigates vital signs, home automation, activity recognition, remote monitoring, smart home, internet of things, ambient assisted living in the context of ageing in place.
+PY 2021
+TC 12
+DI 10.1000/test.0007
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on assistive technology older adult aging in place (8)
+SO PERVASIVE MOB COMPUT
+DE assistive technology; older adult; aging in place; ambient assisted living; smart home; home automation
+ID aging in place; activity recognition; sensor network; health monitoring; home care
+AB This study investigates assistive technology, older adult, aging in place, ambient assisted living, smart home, home automation in the context of ageing in place.
+PY 2024
+TC 7
+DI 10.1000/test.0008
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on aging in place sensor network solitary living (9)
+SO IEEE INTERNET THINGS J
+DE aging in place; sensor network; solitary living; elderly care; home care; smart home
+ID health monitoring; home automation; affordance; ambient assisted living; smart home
+AB This study investigates aging in place, sensor network, solitary living, elderly care, home care, smart home in the context of ageing in place.
+PY 2022
+TC 1
+DI 10.1000/test.0009
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on sensor network implicit interaction internet of things (10)
+SO PERVASIVE MOB COMPUT
+DE sensor network; implicit interaction; internet of things; ambient intelligence; elderly care; independent living
+ID older adult; implicit interaction; smart home; affordance; home care
+AB This study investigates sensor network, implicit interaction, internet of things, ambient intelligence, elderly care, independent living in the context of ageing in place.
+PY 2016
+TC 12
+DI 10.1000/test.0010
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on internet of things smart home ambient assisted living (11)
+SO IEEE ACCESS
+DE internet of things; smart home; ambient assisted living
+ID remote monitoring; solitary living; fall detection; calm technology; vital signs
+AB This study investigates internet of things, smart home, ambient assisted living in the context of ageing in place.
+PY 2024
+TC 1
+DI 10.1000/test.0011
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on health monitoring solitary living remote monitoring (12)
+SO IEEE INTERNET THINGS J
+DE health monitoring; solitary living; remote monitoring; sensor network; activity recognition; invisible intelligence
+ID affordance; sensor network; elderly care; wearable sensor; implicit interaction
+AB This study investigates health monitoring, solitary living, remote monitoring, sensor network, activity recognition, invisible intelligence in the context of ageing in place.
+PY 2017
+TC 20
+DI 10.1000/test.0012
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on aging in place elderly care internet of things (13)
+SO JMIR MHEALTH UHEALTH
+DE aging in place; elderly care; internet of things; ambient assisted living
+ID unobtrusive sensing; calm technology; aging in place; vital signs; solitary living
+AB This study investigates aging in place, elderly care, internet of things, ambient assisted living in the context of ageing in place.
+PY 2017
+TC 36
+DI 10.1000/test.0013
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation vital signs internet of things (14)
+SO JMIR MHEALTH UHEALTH
+DE home automation; vital signs; internet of things; ambient assisted living
+ID sensor network; activity recognition; implicit interaction; fall detection; elderly care
+AB This study investigates home automation, vital signs, internet of things, ambient assisted living in the context of ageing in place.
+PY 2021
+TC 11
+DI 10.1000/test.0014
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living sensor network elderly care (15)
+SO JMIR MHEALTH UHEALTH
+DE ambient assisted living; sensor network; elderly care; internet of things; independent living
+ID ambient assisted living; ambient intelligence; invisible intelligence; assistive technology; health monitoring
+AB This study investigates ambient assisted living, sensor network, elderly care, internet of things, independent living in the context of ageing in place.
+PY 2022
+TC 1
+DI 10.1000/test.0015
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on remote monitoring internet of things vital signs (16)
+SO IEEE INTERNET THINGS J
+DE remote monitoring; internet of things; vital signs; aging in place; wearable sensor
+ID independent living; wearable sensor; unobtrusive sensing; older adult; aging in place
+AB This study investigates remote monitoring, internet of things, vital signs, aging in place, wearable sensor in the context of ageing in place.
+PY 2024
+TC 1
+DI 10.1000/test.0016
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on remote monitoring home automation home care (17)
+SO INT J ENV RES PUB HE
+DE remote monitoring; home automation; home care; ambient intelligence
+ID ambient intelligence; sensor network; vital signs; implicit interaction; unobtrusive sensing
+AB This study investigates remote monitoring, home automation, home care, ambient intelligence in the context of ageing in place.
+PY 2024
+TC 22
+DI 10.1000/test.0017
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation calm technology internet of things (18)
+SO SENSORS
+DE home automation; calm technology; internet of things; vital signs
+ID wearable sensor; assistive technology; remote monitoring; unobtrusive sensing; calm technology
+AB This study investigates home automation, calm technology, internet of things, vital signs in the context of ageing in place.
+PY 2021
+TC 12
+DI 10.1000/test.0018
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on internet of things sensor network aging in place (19)
+SO J MED INTERNET RES
+DE internet of things; sensor network; aging in place; ambient assisted living
+ID sensor network; assistive technology; wearable sensor; home care; invisible intelligence
+AB This study investigates internet of things, sensor network, aging in place, ambient assisted living in the context of ageing in place.
+PY 2022
+TC 31
+DI 10.1000/test.0019
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition home care remote monitoring (20)
+SO PERVASIVE MOB COMPUT
+DE activity recognition; home care; remote monitoring; older adult
+ID smart home; activity recognition; home care; older adult; home automation
+AB This study investigates activity recognition, home care, remote monitoring, older adult in the context of ageing in place.
+PY 2022
+TC 7
+DI 10.1000/test.0020
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on smart home wearable sensor health monitoring (21)
+SO JMIR MHEALTH UHEALTH
+DE smart home; wearable sensor; health monitoring; ambient assisted living; home automation; assistive technology; activity recognition
+ID sensor network; remote monitoring; independent living; wearable sensor; elderly care
+AB This study investigates smart home, wearable sensor, health monitoring, ambient assisted living, home automation, assistive technology, activity recognition in the context of ageing in place.
+PY 2020
+TC 10
+DI 10.1000/test.0021
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on fall detection wearable sensor (22)
+SO PERVASIVE MOB COMPUT
+DE fall detection; wearable sensor
+ID internet of things; ambient intelligence; invisible intelligence; remote monitoring; aging in place
+AB This study investigates fall detection, wearable sensor in the context of ageing in place.
+PY 2024
+TC 21
+DI 10.1000/test.0022
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living home care fall detection (23)
+SO J AMB INTEL SMART ENVIR
+DE ambient assisted living; home care; fall detection; elderly care; solitary living; remote monitoring; activity recognition
+ID activity recognition; independent living; assistive technology; implicit interaction; smart home
+AB This study investigates ambient assisted living, home care, fall detection, elderly care, solitary living, remote monitoring, activity recognition in the context of ageing in place.
+PY 2022
+TC 20
+DI 10.1000/test.0023
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on smart home elderly care ambient assisted living (24)
+SO SENSORS
+DE smart home; elderly care; ambient assisted living; home automation; solitary living; sensor network; aging in place
+ID solitary living; assistive technology; fall detection; affordance; home care
+AB This study investigates smart home, elderly care, ambient assisted living, home automation, solitary living, sensor network, aging in place in the context of ageing in place.
+PY 2024
+TC 27
+DI 10.1000/test.0024
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living activity recognition assistive technology (25)
+SO IEEE ACCESS
+DE ambient assisted living; activity recognition; assistive technology; home automation; health monitoring
+ID unobtrusive sensing; invisible intelligence; older adult; aging in place; ambient assisted living
+AB This study investigates ambient assisted living, activity recognition, assistive technology, home automation, health monitoring in the context of ageing in place.
+PY 2022
+TC 22
+DI 10.1000/test.0025
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on sensor network assistive technology wearable sensor (26)
+SO COMPUT HUM BEHAV
+DE sensor network; assistive technology; wearable sensor; smart home; ambient assisted living
+ID activity recognition; wearable sensor; home automation; calm technology; affordance
+AB This study investigates sensor network, assistive technology, wearable sensor, smart home, ambient assisted living in the context of ageing in place.
+PY 2024
+TC 8
+DI 10.1000/test.0026
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living internet of things assistive technology (27)
+SO J AMB INTEL SMART ENVIR
+DE ambient assisted living; internet of things; assistive technology
+ID sensor network; activity recognition; wearable sensor; smart home; internet of things
+AB This study investigates ambient assisted living, internet of things, assistive technology in the context of ageing in place.
+PY 2015
+TC 39
+DI 10.1000/test.0027
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on health monitoring wearable sensor activity recognition (28)
+SO ARCH GERONTOL GERIAT
+DE health monitoring; wearable sensor; activity recognition; remote monitoring
+ID home automation; ambient assisted living; smart home; solitary living; internet of things
+AB This study investigates health monitoring, wearable sensor, activity recognition, remote monitoring in the context of ageing in place.
+PY 2020
+TC 1
+DI 10.1000/test.0028
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living remote monitoring independent living (29)
+SO APPL SCI-BASEL
+DE ambient assisted living; remote monitoring; independent living; elderly care; smart home
+ID ambient intelligence; solitary living; sensor network; internet of things; home automation
+AB This study investigates ambient assisted living, remote monitoring, independent living, elderly care, smart home in the context of ageing in place.
+PY 2021
+TC 8
+DI 10.1000/test.0029
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36; Ref, A 37
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on older adult wearable sensor home automation (30)
+SO PERVASIVE MOB COMPUT
+DE older adult; wearable sensor; home automation; smart home
+ID assistive technology; activity recognition; older adult; independent living; unobtrusive sensing
+AB This study investigates older adult, wearable sensor, home automation, smart home in the context of ageing in place.
+PY 2023
+TC 13
+DI 10.1000/test.0030
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition home automation internet of things (31)
+SO IEEE ACCESS
+DE activity recognition; home automation; internet of things; health monitoring
+ID home care; smart home; health monitoring; older adult; sensor network
+AB This study investigates activity recognition, home automation, internet of things, health monitoring in the context of ageing in place.
+PY 2017
+TC 23
+DI 10.1000/test.0031
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on sensor network wearable sensor assistive technology (32)
+SO INT J ENV RES PUB HE
+DE sensor network; wearable sensor; assistive technology; remote monitoring; internet of things; home automation; fall detection
+ID sensor network; wearable sensor; affordance; home care; aging in place
+AB This study investigates sensor network, wearable sensor, assistive technology, remote monitoring, internet of things, home automation, fall detection in the context of ageing in place.
+PY 2016
+TC 9
+DI 10.1000/test.0032
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation internet of things smart home (33)
+SO IEEE INTERNET THINGS J
+DE home automation; internet of things; smart home
+ID vital signs; home automation; affordance; smart home; fall detection
+AB This study investigates home automation, internet of things, smart home in the context of ageing in place.
+PY 2024
+TC 3
+DI 10.1000/test.0033
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on smart home internet of things sensor network (34)
+SO COMPUT HUM BEHAV
+DE smart home; internet of things; sensor network; assistive technology; activity recognition; vital signs
+ID activity recognition; assistive technology; remote monitoring; home care; independent living
+AB This study investigates smart home, internet of things, sensor network, assistive technology, activity recognition, vital signs in the context of ageing in place.
+PY 2023
+TC 12
+DI 10.1000/test.0034
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition unobtrusive sensing health monitoring (35)
+SO COMPUT HUM BEHAV
+DE activity recognition; unobtrusive sensing; health monitoring; assistive technology; ambient assisted living; remote monitoring; wearable sensor; sensor network
+ID implicit interaction; smart home; sensor network; invisible intelligence; home care
+AB This study investigates activity recognition, unobtrusive sensing, health monitoring, assistive technology, ambient assisted living, remote monitoring, wearable sensor, sensor network in the context of ageing in place.
+PY 2024
+TC 17
+DI 10.1000/test.0035
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care independent living solitary living (36)
+SO J AMB INTEL SMART ENVIR
+DE elderly care; independent living; solitary living
+ID affordance; solitary living; implicit interaction; smart home; remote monitoring
+AB This study investigates elderly care, independent living, solitary living in the context of ageing in place.
+PY 2020
+TC 26
+DI 10.1000/test.0036
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home care elderly care ambient assisted living (37)
+SO J MED INTERNET RES
+DE home care; elderly care; ambient assisted living; assistive technology
+ID implicit interaction; assistive technology; solitary living; invisible intelligence; sensor network
+AB This study investigates home care, elderly care, ambient assisted living, assistive technology in the context of ageing in place.
+PY 2019
+TC 35
+DI 10.1000/test.0037
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36; Ref, A 37; Ref, A 38; Ref, A 39
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on aging in place smart home assistive technology (38)
+SO J MED INTERNET RES
+DE aging in place; smart home; assistive technology; elderly care; ambient assisted living; solitary living; sensor network
+ID home care; implicit interaction; activity recognition; solitary living; remote monitoring
+AB This study investigates aging in place, smart home, assistive technology, elderly care, ambient assisted living, solitary living, sensor network in the context of ageing in place.
+PY 2024
+TC 1
+DI 10.1000/test.0038
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on assistive technology aging in place wearable sensor (39)
+SO JMIR MHEALTH UHEALTH
+DE assistive technology; aging in place; wearable sensor; activity recognition; sensor network
+ID sensor network; elderly care; home care; fall detection; ambient assisted living
+AB This study investigates assistive technology, aging in place, wearable sensor, activity recognition, sensor network in the context of ageing in place.
+PY 2020
+TC 24
+DI 10.1000/test.0039
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36; Ref, A 37; Ref, A 38
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care sensor network ambient assisted living (40)
+SO INT J ENV RES PUB HE
+DE elderly care; sensor network; ambient assisted living; home automation; aging in place; assistive technology
+ID elderly care; aging in place; solitary living; home automation; internet of things
+AB This study investigates elderly care, sensor network, ambient assisted living, home automation, aging in place, assistive technology in the context of ageing in place.
+PY 2017
+TC 22
+DI 10.1000/test.0040
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on fall detection assistive technology internet of things (41)
+SO APPL SCI-BASEL
+DE fall detection; assistive technology; internet of things; ambient assisted living; smart home; health monitoring
+ID unobtrusive sensing; invisible intelligence; older adult; health monitoring; smart home
+AB This study investigates fall detection, assistive technology, internet of things, ambient assisted living, smart home, health monitoring in the context of ageing in place.
+PY 2022
+TC 1
+DI 10.1000/test.0041
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on independent living ambient assisted living home care (42)
+SO INT J ENV RES PUB HE
+DE independent living; ambient assisted living; home care; older adult; smart home
+ID vital signs; calm technology; assistive technology; aging in place; fall detection
+AB This study investigates independent living, ambient assisted living, home care, older adult, smart home in the context of ageing in place.
+PY 2017
+TC 30
+DI 10.1000/test.0042
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home care smart home internet of things (43)
+SO COMPUT HUM BEHAV
+DE home care; smart home; internet of things; older adult; elderly care; assistive technology; sensor network; independent living
+ID fall detection; implicit interaction; wearable sensor; independent living; health monitoring
+AB This study investigates home care, smart home, internet of things, older adult, elderly care, assistive technology, sensor network, independent living in the context of ageing in place.
+PY 2023
+TC 1
+DI 10.1000/test.0043
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition assistive technology fall detection (44)
+SO GERONTOLOGIST
+DE activity recognition; assistive technology; fall detection; home automation
+ID smart home; aging in place; sensor network; ambient intelligence; elderly care
+AB This study investigates activity recognition, assistive technology, fall detection, home automation in the context of ageing in place.
+PY 2021
+TC 39
+DI 10.1000/test.0044
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on solitary living home care activity recognition (45)
+SO COMPUT HUM BEHAV
+DE solitary living; home care; activity recognition; fall detection; independent living
+ID older adult; smart home; invisible intelligence; activity recognition; aging in place
+AB This study investigates solitary living, home care, activity recognition, fall detection, independent living in the context of ageing in place.
+PY 2015
+TC 38
+DI 10.1000/test.0045
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on fall detection assistive technology home automation (46)
+SO J MED INTERNET RES
+DE fall detection; assistive technology; home automation; health monitoring; remote monitoring
+ID unobtrusive sensing; affordance; independent living; wearable sensor; home automation
+AB This study investigates fall detection, assistive technology, home automation, health monitoring, remote monitoring in the context of ageing in place.
+PY 2018
+TC 16
+DI 10.1000/test.0046
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living sensor network vital signs (47)
+SO SENSORS
+DE ambient assisted living; sensor network; vital signs; independent living; home automation
+ID older adult; unobtrusive sensing; implicit interaction; smart home; vital signs
+AB This study investigates ambient assisted living, sensor network, vital signs, independent living, home automation in the context of ageing in place.
+PY 2024
+TC 2
+DI 10.1000/test.0047
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care sensor network home care (48)
+SO JMIR MHEALTH UHEALTH
+DE elderly care; sensor network; home care; older adult; internet of things; solitary living; home automation
+ID ambient intelligence; affordance; home care; implicit interaction; solitary living
+AB This study investigates elderly care, sensor network, home care, older adult, internet of things, solitary living, home automation in the context of ageing in place.
+PY 2019
+TC 41
+DI 10.1000/test.0048
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on vital signs aging in place health monitoring (49)
+SO PERVASIVE MOB COMPUT
+DE vital signs; aging in place; health monitoring; independent living
+ID ambient assisted living; affordance; activity recognition; aging in place; elderly care
+AB This study investigates vital signs, aging in place, health monitoring, independent living in the context of ageing in place.
+PY 2020
+TC 8
+DI 10.1000/test.0049
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on smart home home automation remote monitoring (50)
+SO COMPUT HUM BEHAV
+DE smart home; home automation; remote monitoring; solitary living; activity recognition; assistive technology
+ID activity recognition; unobtrusive sensing; internet of things; vital signs; aging in place
+AB This study investigates smart home, home automation, remote monitoring, solitary living, activity recognition, assistive technology in the context of ageing in place.
+PY 2016
+TC 47
+DI 10.1000/test.0050
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36; Ref, A 37; Ref, A 38
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on vital signs smart home remote monitoring (51)
+SO J MED INTERNET RES
+DE vital signs; smart home; remote monitoring; activity recognition; sensor network; health monitoring
+ID invisible intelligence; home automation; ambient assisted living; remote monitoring; implicit interaction
+AB This study investigates vital signs, smart home, remote monitoring, activity recognition, sensor network, health monitoring in the context of ageing in place.
+PY 2020
+TC 25
+DI 10.1000/test.0051
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on wearable sensor activity recognition internet of things (52)
+SO ARCH GERONTOL GERIAT
+DE wearable sensor; activity recognition; internet of things; vital signs
+ID elderly care; remote monitoring; wearable sensor; invisible intelligence; solitary living
+AB This study investigates wearable sensor, activity recognition, internet of things, vital signs in the context of ageing in place.
+PY 2024
+TC 5
+DI 10.1000/test.0052
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on remote monitoring sensor network internet of things (53)
+SO J MED INTERNET RES
+DE remote monitoring; sensor network; internet of things; health monitoring; solitary living
+ID ambient intelligence; aging in place; sensor network; smart home; unobtrusive sensing
+AB This study investigates remote monitoring, sensor network, internet of things, health monitoring, solitary living in the context of ageing in place.
+PY 2023
+TC 15
+DI 10.1000/test.0053
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on aging in place unobtrusive sensing internet of things (54)
+SO J MED INTERNET RES
+DE aging in place; unobtrusive sensing; internet of things; smart home; ambient intelligence; independent living
+ID invisible intelligence; home care; sensor network; independent living; calm technology
+AB This study investigates aging in place, unobtrusive sensing, internet of things, smart home, ambient intelligence, independent living in the context of ageing in place.
+PY 2020
+TC 13
+DI 10.1000/test.0054
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation older adult calm technology (55)
+SO INT J ENV RES PUB HE
+DE home automation; older adult; calm technology; invisible intelligence
+ID fall detection; unobtrusive sensing; activity recognition; smart home; remote monitoring
+AB This study investigates home automation, older adult, calm technology, invisible intelligence in the context of ageing in place.
+PY 2021
+TC 3
+DI 10.1000/test.0055
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on wearable sensor remote monitoring independent living (56)
+SO J AMB INTEL SMART ENVIR
+DE wearable sensor; remote monitoring; independent living; health monitoring; home care; assistive technology; sensor network
+ID calm technology; invisible intelligence; home care; smart home; remote monitoring
+AB This study investigates wearable sensor, remote monitoring, independent living, health monitoring, home care, assistive technology, sensor network in the context of ageing in place.
+PY 2022
+TC 22
+DI 10.1000/test.0056
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on aging in place activity recognition home care (57)
+SO JMIR MHEALTH UHEALTH
+DE aging in place; activity recognition; home care; smart home; ambient assisted living
+ID remote monitoring; invisible intelligence; unobtrusive sensing; ambient intelligence; home automation
+AB This study investigates aging in place, activity recognition, home care, smart home, ambient assisted living in the context of ageing in place.
+PY 2023
+TC 10
+DI 10.1000/test.0057
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on health monitoring vital signs internet of things (58)
+SO COMPUT HUM BEHAV
+DE health monitoring; vital signs; internet of things; remote monitoring; ambient assisted living; home automation
+ID home automation; internet of things; home care; unobtrusive sensing; implicit interaction
+AB This study investigates health monitoring, vital signs, internet of things, remote monitoring, ambient assisted living, home automation in the context of ageing in place.
+PY 2024
+TC 5
+DI 10.1000/test.0058
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on solitary living home automation sensor network (59)
+SO J MED INTERNET RES
+DE solitary living; home automation; sensor network; remote monitoring
+ID independent living; assistive technology; elderly care; activity recognition; remote monitoring
+AB This study investigates solitary living, home automation, sensor network, remote monitoring in the context of ageing in place.
+PY 2022
+TC 13
+DI 10.1000/test.0059
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition older adult health monitoring (60)
+SO IEEE INTERNET THINGS J
+DE activity recognition; older adult; health monitoring; aging in place; solitary living; elderly care; home automation; sensor network
+ID health monitoring; implicit interaction; older adult; affordance; ambient intelligence
+AB This study investigates activity recognition, older adult, health monitoring, aging in place, solitary living, elderly care, home automation, sensor network in the context of ageing in place.
+PY 2020
+TC 27
+DI 10.1000/test.0060
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on implicit interaction assistive technology unobtrusive sensing (61)
+SO PERVASIVE MOB COMPUT
+DE implicit interaction; assistive technology; unobtrusive sensing; vital signs; home automation; fall detection
+ID fall detection; aging in place; elderly care; vital signs; home care
+AB This study investigates implicit interaction, assistive technology, unobtrusive sensing, vital signs, home automation, fall detection in the context of ageing in place.
+PY 2020
+TC 2
+DI 10.1000/test.0061
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation older adult independent living (62)
+SO SENSORS
+DE home automation; older adult; independent living; aging in place; ambient assisted living
+ID sensor network; health monitoring; internet of things; affordance; implicit interaction
+AB This study investigates home automation, older adult, independent living, aging in place, ambient assisted living in the context of ageing in place.
+PY 2022
+TC 8
+DI 10.1000/test.0062
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36; Ref, A 37
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on wearable sensor vital signs remote monitoring (63)
+SO J MED INTERNET RES
+DE wearable sensor; vital signs; remote monitoring; activity recognition
+ID wearable sensor; fall detection; implicit interaction; home automation; aging in place
+AB This study investigates wearable sensor, vital signs, remote monitoring, activity recognition in the context of ageing in place.
+PY 2023
+TC 27
+DI 10.1000/test.0063
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living smart home solitary living (64)
+SO J MED INTERNET RES
+DE ambient assisted living; smart home; solitary living; aging in place; home automation
+ID unobtrusive sensing; invisible intelligence; solitary living; remote monitoring; vital signs
+AB This study investigates ambient assisted living, smart home, solitary living, aging in place, home automation in the context of ageing in place.
+PY 2019
+TC 28
+DI 10.1000/test.0064
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living sensor network smart home (65)
+SO INT J ENV RES PUB HE
+DE ambient assisted living; sensor network; smart home; activity recognition; fall detection; health monitoring; vital signs
+ID elderly care; wearable sensor; health monitoring; independent living; home care
+AB This study investigates ambient assisted living, sensor network, smart home, activity recognition, fall detection, health monitoring, vital signs in the context of ageing in place.
+PY 2021
+TC 17
+DI 10.1000/test.0065
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living wearable sensor vital signs (66)
+SO COMPUT HUM BEHAV
+DE ambient assisted living; wearable sensor; vital signs; elderly care
+ID vital signs; sensor network; wearable sensor; ambient assisted living; assistive technology
+AB This study investigates ambient assisted living, wearable sensor, vital signs, elderly care in the context of ageing in place.
+PY 2020
+TC 27
+DI 10.1000/test.0066
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home care vital signs solitary living (67)
+SO PERVASIVE MOB COMPUT
+DE home care; vital signs; solitary living; smart home; ambient assisted living
+ID older adult; calm technology; health monitoring; smart home; activity recognition
+AB This study investigates home care, vital signs, solitary living, smart home, ambient assisted living in the context of ageing in place.
+PY 2017
+TC 32
+DI 10.1000/test.0067
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation ambient assisted living internet of things (68)
+SO INT J ENV RES PUB HE
+DE home automation; ambient assisted living; internet of things; health monitoring; remote monitoring
+ID affordance; fall detection; smart home; ambient assisted living; older adult
+AB This study investigates home automation, ambient assisted living, internet of things, health monitoring, remote monitoring in the context of ageing in place.
+PY 2021
+TC 8
+DI 10.1000/test.0068
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care implicit interaction older adult (69)
+SO SENSORS
+DE elderly care; implicit interaction; older adult; affordance; ambient assisted living; smart home; independent living; home care
+ID vital signs; ambient assisted living; assistive technology; home automation; aging in place
+AB This study investigates elderly care, implicit interaction, older adult, affordance, ambient assisted living, smart home, independent living, home care in the context of ageing in place.
+PY 2020
+TC 16
+DI 10.1000/test.0069
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on health monitoring activity recognition wearable sensor (70)
+SO GERONTOLOGIST
+DE health monitoring; activity recognition; wearable sensor; remote monitoring
+ID aging in place; internet of things; older adult; assistive technology; health monitoring
+AB This study investigates health monitoring, activity recognition, wearable sensor, remote monitoring in the context of ageing in place.
+PY 2018
+TC 21
+DI 10.1000/test.0070
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36; Ref, A 37
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on internet of things wearable sensor health monitoring (71)
+SO INT J ENV RES PUB HE
+DE internet of things; wearable sensor; health monitoring; remote monitoring; activity recognition; home automation
+ID activity recognition; vital signs; elderly care; independent living; invisible intelligence
+AB This study investigates internet of things, wearable sensor, health monitoring, remote monitoring, activity recognition, home automation in the context of ageing in place.
+PY 2020
+TC 19
+DI 10.1000/test.0071
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home care aging in place vital signs (72)
+SO COMPUT HUM BEHAV
+DE home care; aging in place; vital signs; ambient assisted living; older adult; assistive technology; health monitoring; activity recognition
+ID home care; remote monitoring; older adult; independent living; home automation
+AB This study investigates home care, aging in place, vital signs, ambient assisted living, older adult, assistive technology, health monitoring, activity recognition in the context of ageing in place.
+PY 2018
+TC 13
+DI 10.1000/test.0072
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on older adult activity recognition wearable sensor (73)
+SO COMPUT HUM BEHAV
+DE older adult; activity recognition; wearable sensor; elderly care
+ID unobtrusive sensing; aging in place; assistive technology; home care; internet of things
+AB This study investigates older adult, activity recognition, wearable sensor, elderly care in the context of ageing in place.
+PY 2018
+TC 17
+DI 10.1000/test.0073
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on internet of things smart home health monitoring (74)
+SO J AMB INTEL SMART ENVIR
+DE internet of things; smart home; health monitoring; activity recognition
+ID assistive technology; calm technology; home automation; ambient assisted living; aging in place
+AB This study investigates internet of things, smart home, health monitoring, activity recognition in the context of ageing in place.
+PY 2021
+TC 15
+DI 10.1000/test.0074
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on independent living activity recognition wearable sensor (75)
+SO J AMB INTEL SMART ENVIR
+DE independent living; activity recognition; wearable sensor; solitary living
+ID home automation; sensor network; independent living; ambient assisted living; smart home
+AB This study investigates independent living, activity recognition, wearable sensor, solitary living in the context of ageing in place.
+PY 2022
+TC 4
+DI 10.1000/test.0075
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on assistive technology elderly care activity recognition (76)
+SO APPL SCI-BASEL
+DE assistive technology; elderly care; activity recognition; vital signs; home automation; internet of things; independent living
+ID implicit interaction; home automation; vital signs; activity recognition; home care
+AB This study investigates assistive technology, elderly care, activity recognition, vital signs, home automation, internet of things, independent living in the context of ageing in place.
+PY 2024
+TC 1
+DI 10.1000/test.0076
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on assistive technology ambient assisted living activity recognition (77)
+SO ARCH GERONTOL GERIAT
+DE assistive technology; ambient assisted living; activity recognition; sensor network; wearable sensor; health monitoring
+ID affordance; unobtrusive sensing; health monitoring; older adult; assistive technology
+AB This study investigates assistive technology, ambient assisted living, activity recognition, sensor network, wearable sensor, health monitoring in the context of ageing in place.
+PY 2017
+TC 33
+DI 10.1000/test.0077
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care home care (78)
+SO GERONTOLOGIST
+DE elderly care; home care
+ID invisible intelligence; older adult; affordance; implicit interaction; independent living
+AB This study investigates elderly care, home care in the context of ageing in place.
+PY 2022
+TC 15
+DI 10.1000/test.0078
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on aging in place home care older adult (79)
+SO IEEE INTERNET THINGS J
+DE aging in place; home care; older adult; sensor network; assistive technology; health monitoring
+ID health monitoring; older adult; ambient assisted living; sensor network; smart home
+AB This study investigates aging in place, home care, older adult, sensor network, assistive technology, health monitoring in the context of ageing in place.
+PY 2016
+TC 14
+DI 10.1000/test.0079
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on internet of things aging in place calm technology (80)
+SO J AMB INTEL SMART ENVIR
+DE internet of things; aging in place; calm technology; solitary living
+ID sensor network; implicit interaction; home automation; home care; invisible intelligence
+AB This study investigates internet of things, aging in place, calm technology, solitary living in the context of ageing in place.
+PY 2020
+TC 41
+DI 10.1000/test.0080
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on wearable sensor vital signs health monitoring (81)
+SO IEEE ACCESS
+DE wearable sensor; vital signs; health monitoring
+ID assistive technology; health monitoring; sensor network; ambient assisted living; aging in place
+AB This study investigates wearable sensor, vital signs, health monitoring in the context of ageing in place.
+PY 2023
+TC 1
+DI 10.1000/test.0081
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36; Ref, A 37
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on health monitoring activity recognition internet of things (82)
+SO J MED INTERNET RES
+DE health monitoring; activity recognition; internet of things; older adult; home care; sensor network; unobtrusive sensing; smart home
+ID unobtrusive sensing; health monitoring; home automation; remote monitoring; aging in place
+AB This study investigates health monitoring, activity recognition, internet of things, older adult, home care, sensor network, unobtrusive sensing, smart home in the context of ageing in place.
+PY 2016
+TC 27
+DI 10.1000/test.0082
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation sensor network home care (83)
+SO J AMB INTEL SMART ENVIR
+DE home automation; sensor network; home care; ambient assisted living; independent living
+ID assistive technology; solitary living; implicit interaction; elderly care; independent living
+AB This study investigates home automation, sensor network, home care, ambient assisted living, independent living in the context of ageing in place.
+PY 2022
+TC 1
+DI 10.1000/test.0083
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition vital signs remote monitoring (84)
+SO APPL SCI-BASEL
+DE activity recognition; vital signs; remote monitoring; fall detection
+ID wearable sensor; assistive technology; calm technology; implicit interaction; aging in place
+AB This study investigates activity recognition, vital signs, remote monitoring, fall detection in the context of ageing in place.
+PY 2019
+TC 10
+DI 10.1000/test.0084
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition smart home home care (85)
+SO JMIR MHEALTH UHEALTH
+DE activity recognition; smart home; home care; home automation
+ID wearable sensor; assistive technology; sensor network; affordance; elderly care
+AB This study investigates activity recognition, smart home, home care, home automation in the context of ageing in place.
+PY 2024
+TC 1
+DI 10.1000/test.0085
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation sensor network smart home (86)
+SO J AMB INTEL SMART ENVIR
+DE home automation; sensor network; smart home; assistive technology
+ID elderly care; ambient assisted living; calm technology; aging in place; solitary living
+AB This study investigates home automation, sensor network, smart home, assistive technology in the context of ageing in place.
+PY 2015
+TC 32
+DI 10.1000/test.0086
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home care home automation health monitoring (87)
+SO INT J ENV RES PUB HE
+DE home care; home automation; health monitoring; ambient assisted living; internet of things; fall detection; activity recognition
+ID remote monitoring; smart home; health monitoring; aging in place; vital signs
+AB This study investigates home care, home automation, health monitoring, ambient assisted living, internet of things, fall detection, activity recognition in the context of ageing in place.
+PY 2021
+TC 30
+DI 10.1000/test.0087
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on independent living calm technology remote monitoring (88)
+SO SENSORS
+DE independent living; calm technology; remote monitoring; wearable sensor
+ID elderly care; implicit interaction; home care; assistive technology; smart home
+AB This study investigates independent living, calm technology, remote monitoring, wearable sensor in the context of ageing in place.
+PY 2024
+TC 13
+DI 10.1000/test.0088
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on vital signs fall detection health monitoring (89)
+SO PERVASIVE MOB COMPUT
+DE vital signs; fall detection; health monitoring
+ID home automation; aging in place; sensor network; vital signs; wearable sensor
+AB This study investigates vital signs, fall detection, health monitoring in the context of ageing in place.
+PY 2020
+TC 19
+DI 10.1000/test.0089
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on independent living solitary living (90)
+SO J AMB INTEL SMART ENVIR
+DE independent living; solitary living
+ID wearable sensor; independent living; affordance; elderly care; vital signs
+AB This study investigates independent living, solitary living in the context of ageing in place.
+PY 2024
+TC 1
+DI 10.1000/test.0090
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on solitary living activity recognition fall detection (91)
+SO COMPUT HUM BEHAV
+DE solitary living; activity recognition; fall detection; independent living; elderly care
+ID activity recognition; fall detection; ambient intelligence; implicit interaction; independent living
+AB This study investigates solitary living, activity recognition, fall detection, independent living, elderly care in the context of ageing in place.
+PY 2023
+TC 11
+DI 10.1000/test.0091
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living smart home aging in place (92)
+SO COMPUT HUM BEHAV
+DE ambient assisted living; smart home; aging in place; home care
+ID remote monitoring; health monitoring; unobtrusive sensing; older adult; fall detection
+AB This study investigates ambient assisted living, smart home, aging in place, home care in the context of ageing in place.
+PY 2018
+TC 44
+DI 10.1000/test.0092
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on wearable sensor fall detection assistive technology (93)
+SO INT J ENV RES PUB HE
+DE wearable sensor; fall detection; assistive technology; smart home; home automation; activity recognition
+ID sensor network; calm technology; health monitoring; fall detection; home care
+AB This study investigates wearable sensor, fall detection, assistive technology, smart home, home automation, activity recognition in the context of ageing in place.
+PY 2024
+TC 1
+DI 10.1000/test.0093
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on independent living elderly care older adult (94)
+SO COMPUT HUM BEHAV
+DE independent living; elderly care; older adult; home care
+ID elderly care; independent living; older adult; home automation; solitary living
+AB This study investigates independent living, elderly care, older adult, home care in the context of ageing in place.
+PY 2017
+TC 13
+DI 10.1000/test.0094
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living invisible intelligence older adult (95)
+SO ARCH GERONTOL GERIAT
+DE ambient assisted living; invisible intelligence; older adult; sensor network; solitary living; implicit interaction; smart home
+ID home automation; fall detection; sensor network; independent living; aging in place
+AB This study investigates ambient assisted living, invisible intelligence, older adult, sensor network, solitary living, implicit interaction, smart home in the context of ageing in place.
+PY 2021
+TC 30
+DI 10.1000/test.0095
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on assistive technology internet of things affordance (96)
+SO JMIR MHEALTH UHEALTH
+DE assistive technology; internet of things; affordance; solitary living; aging in place; ambient intelligence
+ID home care; remote monitoring; ambient assisted living; affordance; internet of things
+AB This study investigates assistive technology, internet of things, affordance, solitary living, aging in place, ambient intelligence in the context of ageing in place.
+PY 2023
+TC 13
+DI 10.1000/test.0096
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on sensor network solitary living health monitoring (97)
+SO PERVASIVE MOB COMPUT
+DE sensor network; solitary living; health monitoring; home care; smart home; wearable sensor; internet of things
+ID sensor network; smart home; ambient assisted living; independent living; home automation
+AB This study investigates sensor network, solitary living, health monitoring, home care, smart home, wearable sensor, internet of things in the context of ageing in place.
+PY 2021
+TC 1
+DI 10.1000/test.0097
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on sensor network assistive technology elderly care (98)
+SO GERONTOLOGIST
+DE sensor network; assistive technology; elderly care; fall detection; remote monitoring
+ID smart home; home automation; wearable sensor; fall detection; home care
+AB This study investigates sensor network, assistive technology, elderly care, fall detection, remote monitoring in the context of ageing in place.
+PY 2020
+TC 10
+DI 10.1000/test.0098
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on wearable sensor health monitoring vital signs (99)
+SO ARCH GERONTOL GERIAT
+DE wearable sensor; health monitoring; vital signs; fall detection
+ID sensor network; health monitoring; home care; ambient intelligence; activity recognition
+AB This study investigates wearable sensor, health monitoring, vital signs, fall detection in the context of ageing in place.
+PY 2021
+TC 8
+DI 10.1000/test.0099
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition internet of things home automation (100)
+SO J AMB INTEL SMART ENVIR
+DE activity recognition; internet of things; home automation; fall detection
+ID calm technology; elderly care; home automation; implicit interaction; older adult
+AB This study investigates activity recognition, internet of things, home automation, fall detection in the context of ageing in place.
+PY 2015
+TC 19
+DI 10.1000/test.0100
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on smart home activity recognition remote monitoring (101)
+SO INT J ENV RES PUB HE
+DE smart home; activity recognition; remote monitoring; internet of things; sensor network; home automation
+ID wearable sensor; elderly care; sensor network; older adult; fall detection
+AB This study investigates smart home, activity recognition, remote monitoring, internet of things, sensor network, home automation in the context of ageing in place.
+PY 2015
+TC 14
+DI 10.1000/test.0101
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on wearable sensor solitary living ambient assisted living (102)
+SO ARCH GERONTOL GERIAT
+DE wearable sensor; solitary living; ambient assisted living; health monitoring; elderly care; home automation; remote monitoring; vital signs
+ID assistive technology; calm technology; wearable sensor; invisible intelligence; activity recognition
+AB This study investigates wearable sensor, solitary living, ambient assisted living, health monitoring, elderly care, home automation, remote monitoring, vital signs in the context of ageing in place.
+PY 2024
+TC 17
+DI 10.1000/test.0102
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on aging in place older adult sensor network (103)
+SO IEEE INTERNET THINGS J
+DE aging in place; older adult; sensor network; smart home
+ID fall detection; ambient assisted living; activity recognition; health monitoring; calm technology
+AB This study investigates aging in place, older adult, sensor network, smart home in the context of ageing in place.
+PY 2017
+TC 26
+DI 10.1000/test.0103
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on solitary living ambient assisted living vital signs (104)
+SO ARCH GERONTOL GERIAT
+DE solitary living; ambient assisted living; vital signs; smart home
+ID independent living; sensor network; invisible intelligence; home care; wearable sensor
+AB This study investigates solitary living, ambient assisted living, vital signs, smart home in the context of ageing in place.
+PY 2021
+TC 9
+DI 10.1000/test.0104
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on smart home home automation independent living (105)
+SO COMPUT HUM BEHAV
+DE smart home; home automation; independent living; aging in place; assistive technology; internet of things
+ID affordance; remote monitoring; calm technology; independent living; solitary living
+AB This study investigates smart home, home automation, independent living, aging in place, assistive technology, internet of things in the context of ageing in place.
+PY 2024
+TC 1
+DI 10.1000/test.0105
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on remote monitoring affordance assistive technology (106)
+SO IEEE ACCESS
+DE remote monitoring; affordance; assistive technology; ambient intelligence; wearable sensor; smart home; home automation
+ID solitary living; affordance; vital signs; aging in place; activity recognition
+AB This study investigates remote monitoring, affordance, assistive technology, ambient intelligence, wearable sensor, smart home, home automation in the context of ageing in place.
+PY 2017
+TC 32
+DI 10.1000/test.0106
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care fall detection activity recognition (107)
+SO APPL SCI-BASEL
+DE elderly care; fall detection; activity recognition; health monitoring; implicit interaction
+ID assistive technology; implicit interaction; sensor network; activity recognition; smart home
+AB This study investigates elderly care, fall detection, activity recognition, health monitoring, implicit interaction in the context of ageing in place.
+PY 2022
+TC 25
+DI 10.1000/test.0107
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on sensor network independent living aging in place (108)
+SO GERONTOLOGIST
+DE sensor network; independent living; aging in place; elderly care; assistive technology; home care
+ID solitary living; assistive technology; sensor network; health monitoring; home care
+AB This study investigates sensor network, independent living, aging in place, elderly care, assistive technology, home care in the context of ageing in place.
+PY 2023
+TC 1
+DI 10.1000/test.0108
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation aging in place smart home (109)
+SO JMIR MHEALTH UHEALTH
+DE home automation; aging in place; smart home; elderly care; home care
+ID vital signs; internet of things; independent living; ambient assisted living; calm technology
+AB This study investigates home automation, aging in place, smart home, elderly care, home care in the context of ageing in place.
+PY 2020
+TC 8
+DI 10.1000/test.0109
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on wearable sensor remote monitoring calm technology (110)
+SO J MED INTERNET RES
+DE wearable sensor; remote monitoring; calm technology; unobtrusive sensing
+ID home automation; older adult; implicit interaction; wearable sensor; sensor network
+AB This study investigates wearable sensor, remote monitoring, calm technology, unobtrusive sensing in the context of ageing in place.
+PY 2017
+TC 24
+DI 10.1000/test.0110
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living fall detection internet of things (111)
+SO SENSORS
+DE ambient assisted living; fall detection; internet of things; aging in place; home care; remote monitoring
+ID implicit interaction; remote monitoring; invisible intelligence; activity recognition; sensor network
+AB This study investigates ambient assisted living, fall detection, internet of things, aging in place, home care, remote monitoring in the context of ageing in place.
+PY 2016
+TC 38
+DI 10.1000/test.0111
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on aging in place internet of things smart home (112)
+SO PERVASIVE MOB COMPUT
+DE aging in place; internet of things; smart home; independent living; sensor network; assistive technology
+ID elderly care; calm technology; home care; smart home; wearable sensor
+AB This study investigates aging in place, internet of things, smart home, independent living, sensor network, assistive technology in the context of ageing in place.
+PY 2019
+TC 1
+DI 10.1000/test.0112
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on health monitoring wearable sensor home care (113)
+SO J AMB INTEL SMART ENVIR
+DE health monitoring; wearable sensor; home care; independent living; vital signs; calm technology
+ID remote monitoring; sensor network; affordance; calm technology; internet of things
+AB This study investigates health monitoring, wearable sensor, home care, independent living, vital signs, calm technology in the context of ageing in place.
+PY 2021
+TC 1
+DI 10.1000/test.0113
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition sensor network assistive technology (114)
+SO PERVASIVE MOB COMPUT
+DE activity recognition; sensor network; assistive technology; elderly care
+ID ambient intelligence; unobtrusive sensing; older adult; home care; invisible intelligence
+AB This study investigates activity recognition, sensor network, assistive technology, elderly care in the context of ageing in place.
+PY 2022
+TC 15
+DI 10.1000/test.0114
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36; Ref, A 37
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on implicit interaction aging in place elderly care (115)
+SO COMPUT HUM BEHAV
+DE implicit interaction; aging in place; elderly care; home care; affordance
+ID elderly care; activity recognition; ambient intelligence; solitary living; health monitoring
+AB This study investigates implicit interaction, aging in place, elderly care, home care, affordance in the context of ageing in place.
+PY 2019
+TC 22
+DI 10.1000/test.0115
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care solitary living assistive technology (116)
+SO SENSORS
+DE elderly care; solitary living; assistive technology; sensor network; home care
+ID health monitoring; solitary living; ambient assisted living; invisible intelligence; vital signs
+AB This study investigates elderly care, solitary living, assistive technology, sensor network, home care in the context of ageing in place.
+PY 2023
+TC 22
+DI 10.1000/test.0116
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on vital signs assistive technology activity recognition (117)
+SO J AMB INTEL SMART ENVIR
+DE vital signs; assistive technology; activity recognition; remote monitoring
+ID ambient intelligence; older adult; assistive technology; activity recognition; invisible intelligence
+AB This study investigates vital signs, assistive technology, activity recognition, remote monitoring in the context of ageing in place.
+PY 2015
+TC 28
+DI 10.1000/test.0117
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on solitary living smart home elderly care (118)
+SO IEEE INTERNET THINGS J
+DE solitary living; smart home; elderly care; assistive technology
+ID home care; elderly care; unobtrusive sensing; sensor network; older adult
+AB This study investigates solitary living, smart home, elderly care, assistive technology in the context of ageing in place.
+PY 2021
+TC 1
+DI 10.1000/test.0118
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care health monitoring independent living (119)
+SO ARCH GERONTOL GERIAT
+DE elderly care; health monitoring; independent living; home care; internet of things; assistive technology; remote monitoring
+ID ambient intelligence; calm technology; home care; older adult; implicit interaction
+AB This study investigates elderly care, health monitoring, independent living, home care, internet of things, assistive technology, remote monitoring in the context of ageing in place.
+PY 2022
+TC 27
+DI 10.1000/test.0119
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on vital signs solitary living independent living (120)
+SO JMIR MHEALTH UHEALTH
+DE vital signs; solitary living; independent living; home care; health monitoring; elderly care
+ID affordance; invisible intelligence; independent living; unobtrusive sensing; home care
+AB This study investigates vital signs, solitary living, independent living, home care, health monitoring, elderly care in the context of ageing in place.
+PY 2015
+TC 15
+DI 10.1000/test.0120
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on smart home affordance sensor network (121)
+SO SENSORS
+DE smart home; affordance; sensor network; ambient assisted living; home care; older adult
+ID affordance; internet of things; activity recognition; home automation; fall detection
+AB This study investigates smart home, affordance, sensor network, ambient assisted living, home care, older adult in the context of ageing in place.
+PY 2019
+TC 36
+DI 10.1000/test.0121
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on implicit interaction affordance sensor network (122)
+SO INT J ENV RES PUB HE
+DE implicit interaction; affordance; sensor network; home automation; aging in place; ambient assisted living
+ID invisible intelligence; aging in place; home care; unobtrusive sensing; solitary living
+AB This study investigates implicit interaction, affordance, sensor network, home automation, aging in place, ambient assisted living in the context of ageing in place.
+PY 2019
+TC 38
+DI 10.1000/test.0122
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on affordance aging in place activity recognition (123)
+SO IEEE ACCESS
+DE affordance; aging in place; activity recognition; solitary living
+ID unobtrusive sensing; independent living; remote monitoring; affordance; elderly care
+AB This study investigates affordance, aging in place, activity recognition, solitary living in the context of ageing in place.
+PY 2024
+TC 2
+DI 10.1000/test.0123
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on remote monitoring fall detection (124)
+SO J MED INTERNET RES
+DE remote monitoring; fall detection
+ID independent living; health monitoring; assistive technology; smart home; home automation
+AB This study investigates remote monitoring, fall detection in the context of ageing in place.
+PY 2023
+TC 19
+DI 10.1000/test.0124
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on solitary living home care older adult (125)
+SO SENSORS
+DE solitary living; home care; older adult
+ID invisible intelligence; aging in place; assistive technology; wearable sensor; sensor network
+AB This study investigates solitary living, home care, older adult in the context of ageing in place.
+PY 2020
+TC 10
+DI 10.1000/test.0125
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on internet of things remote monitoring aging in place (126)
+SO JMIR MHEALTH UHEALTH
+DE internet of things; remote monitoring; aging in place; fall detection; older adult; solitary living; activity recognition
+ID older adult; health monitoring; smart home; unobtrusive sensing; assistive technology
+AB This study investigates internet of things, remote monitoring, aging in place, fall detection, older adult, solitary living, activity recognition in the context of ageing in place.
+PY 2023
+TC 12
+DI 10.1000/test.0126
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on internet of things fall detection sensor network (127)
+SO SENSORS
+DE internet of things; fall detection; sensor network; vital signs; wearable sensor
+ID calm technology; invisible intelligence; independent living; smart home; implicit interaction
+AB This study investigates internet of things, fall detection, sensor network, vital signs, wearable sensor in the context of ageing in place.
+PY 2018
+TC 13
+DI 10.1000/test.0127
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on older adult assistive technology home automation (128)
+SO IEEE INTERNET THINGS J
+DE older adult; assistive technology; home automation; activity recognition; ambient assisted living; remote monitoring; smart home; wearable sensor
+ID older adult; invisible intelligence; home automation; affordance; ambient assisted living
+AB This study investigates older adult, assistive technology, home automation, activity recognition, ambient assisted living, remote monitoring, smart home, wearable sensor in the context of ageing in place.
+PY 2018
+TC 8
+DI 10.1000/test.0128
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on internet of things ambient assisted living elderly care (129)
+SO ARCH GERONTOL GERIAT
+DE internet of things; ambient assisted living; elderly care; older adult; solitary living; assistive technology
+ID unobtrusive sensing; ambient assisted living; smart home; elderly care; invisible intelligence
+AB This study investigates internet of things, ambient assisted living, elderly care, older adult, solitary living, assistive technology in the context of ageing in place.
+PY 2020
+TC 1
+DI 10.1000/test.0129
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on vital signs assistive technology home automation (130)
+SO SENSORS
+DE vital signs; assistive technology; home automation; sensor network; activity recognition; fall detection; remote monitoring; ambient assisted living
+ID aging in place; remote monitoring; affordance; solitary living; independent living
+AB This study investigates vital signs, assistive technology, home automation, sensor network, activity recognition, fall detection, remote monitoring, ambient assisted living in the context of ageing in place.
+PY 2023
+TC 24
+DI 10.1000/test.0130
+C1 [Zhang, Wei] Univ Test, Netherlands
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on ambient assisted living sensor network elderly care (131)
+SO GERONTOLOGIST
+DE ambient assisted living; sensor network; elderly care; wearable sensor; vital signs
+ID ambient assisted living; aging in place; smart home; invisible intelligence; ambient intelligence
+AB This study investigates ambient assisted living, sensor network, elderly care, wearable sensor, vital signs in the context of ageing in place.
+PY 2015
+TC 4
+DI 10.1000/test.0131
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care activity recognition older adult (132)
+SO IEEE ACCESS
+DE elderly care; activity recognition; older adult; health monitoring
+ID aging in place; fall detection; assistive technology; calm technology; implicit interaction
+AB This study investigates elderly care, activity recognition, older adult, health monitoring in the context of ageing in place.
+PY 2024
+TC 1
+DI 10.1000/test.0132
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on aging in place home care solitary living (133)
+SO IEEE INTERNET THINGS J
+DE aging in place; home care; solitary living; vital signs
+ID smart home; ambient assisted living; ambient intelligence; health monitoring; home care
+AB This study investigates aging in place, home care, solitary living, vital signs in the context of ageing in place.
+PY 2020
+TC 26
+DI 10.1000/test.0133
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on sensor network wearable sensor activity recognition (134)
+SO PERVASIVE MOB COMPUT
+DE sensor network; wearable sensor; activity recognition; home automation
+ID vital signs; solitary living; invisible intelligence; elderly care; implicit interaction
+AB This study investigates sensor network, wearable sensor, activity recognition, home automation in the context of ageing in place.
+PY 2019
+TC 19
+DI 10.1000/test.0134
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on sensor network independent living assistive technology (135)
+SO GERONTOLOGIST
+DE sensor network; independent living; assistive technology; health monitoring; ambient assisted living; wearable sensor; activity recognition; smart home
+ID health monitoring; calm technology; affordance; wearable sensor; invisible intelligence
+AB This study investigates sensor network, independent living, assistive technology, health monitoring, ambient assisted living, wearable sensor, activity recognition, smart home in the context of ageing in place.
+PY 2021
+TC 22
+DI 10.1000/test.0135
+C1 [Zhang, Wei] Univ Test, Canada
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on independent living smart home fall detection (136)
+SO J MED INTERNET RES
+DE independent living; smart home; fall detection; home automation
+ID home care; health monitoring; independent living; vital signs; invisible intelligence
+AB This study investigates independent living, smart home, fall detection, home automation in the context of ageing in place.
+PY 2022
+TC 31
+DI 10.1000/test.0136
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home care vital signs remote monitoring (137)
+SO INT J ENV RES PUB HE
+DE home care; vital signs; remote monitoring; elderly care
+ID aging in place; implicit interaction; sensor network; assistive technology; calm technology
+AB This study investigates home care, vital signs, remote monitoring, elderly care in the context of ageing in place.
+PY 2022
+TC 41
+DI 10.1000/test.0137
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on fall detection solitary living wearable sensor (138)
+SO J MED INTERNET RES
+DE fall detection; solitary living; wearable sensor; ambient assisted living; assistive technology
+ID activity recognition; remote monitoring; health monitoring; solitary living; ambient assisted living
+AB This study investigates fall detection, solitary living, wearable sensor, ambient assisted living, assistive technology in the context of ageing in place.
+PY 2022
+TC 1
+DI 10.1000/test.0138
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36; Ref, A 37
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on activity recognition aging in place health monitoring (139)
+SO J AMB INTEL SMART ENVIR
+DE activity recognition; aging in place; health monitoring; elderly care
+ID solitary living; internet of things; aging in place; invisible intelligence; home care
+AB This study investigates activity recognition, aging in place, health monitoring, elderly care in the context of ageing in place.
+PY 2018
+TC 23
+DI 10.1000/test.0139
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation ambient assisted living sensor network (140)
+SO APPL SCI-BASEL
+DE home automation; ambient assisted living; sensor network; assistive technology
+ID solitary living; assistive technology; activity recognition; aging in place; home care
+AB This study investigates home automation, ambient assisted living, sensor network, assistive technology in the context of ageing in place.
+PY 2019
+TC 29
+DI 10.1000/test.0140
+C1 [Zhang, Wei] Univ Test, Germany
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on remote monitoring assistive technology smart home (141)
+SO ARCH GERONTOL GERIAT
+DE remote monitoring; assistive technology; smart home; internet of things
+ID solitary living; calm technology; implicit interaction; independent living; ambient assisted living
+AB This study investigates remote monitoring, assistive technology, smart home, internet of things in the context of ageing in place.
+PY 2022
+TC 18
+DI 10.1000/test.0141
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on vital signs activity recognition health monitoring (142)
+SO APPL SCI-BASEL
+DE vital signs; activity recognition; health monitoring
+ID affordance; assistive technology; elderly care; ambient assisted living; home care
+AB This study investigates vital signs, activity recognition, health monitoring in the context of ageing in place.
+PY 2017
+TC 34
+DI 10.1000/test.0142
+C1 [Zhang, Wei] Univ Test, Australia
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care smart home older adult (143)
+SO PERVASIVE MOB COMPUT
+DE elderly care; smart home; older adult; assistive technology
+ID ambient assisted living; older adult; sensor network; health monitoring; internet of things
+AB This study investigates elderly care, smart home, older adult, assistive technology in the context of ageing in place.
+PY 2020
+TC 11
+DI 10.1000/test.0143
+C1 [Zhang, Wei] Univ Test, Peoples R China
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34; Ref, A 35; Ref, A 36
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home automation elderly care sensor network (144)
+SO SENSORS
+DE home automation; elderly care; sensor network; home care; solitary living; assistive technology
+ID older adult; internet of things; fall detection; independent living; affordance
+AB This study investigates home automation, elderly care, sensor network, home care, solitary living, assistive technology in the context of ageing in place.
+PY 2023
+TC 1
+DI 10.1000/test.0144
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on home care vital signs wearable sensor (145)
+SO IEEE INTERNET THINGS J
+DE home care; vital signs; wearable sensor; fall detection; elderly care; activity recognition
+ID elderly care; home automation; vital signs; unobtrusive sensing; aging in place
+AB This study investigates home care, vital signs, wearable sensor, fall detection, elderly care, activity recognition in the context of ageing in place.
+PY 2020
+TC 27
+DI 10.1000/test.0145
+C1 [Zhang, Wei] Univ Test, Sweden
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23; Ref, A 24; Ref, A 25; Ref, A 26; Ref, A 27; Ref, A 28; Ref, A 29; Ref, A 30; Ref, A 31; Ref, A 32; Ref, A 33; Ref, A 34
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on independent living solitary living ambient assisted living (146)
+SO INT J ENV RES PUB HE
+DE independent living; solitary living; ambient assisted living; elderly care; sensor network
+ID elderly care; fall detection; independent living; wearable sensor; solitary living
+AB This study investigates independent living, solitary living, ambient assisted living, elderly care, sensor network in the context of ageing in place.
+PY 2021
+TC 4
+DI 10.1000/test.0146
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on internet of things ambient assisted living older adult (147)
+SO J AMB INTEL SMART ENVIR
+DE internet of things; ambient assisted living; older adult; independent living
+ID smart home; affordance; unobtrusive sensing; ambient intelligence; independent living
+AB This study investigates internet of things, ambient assisted living, older adult, independent living in the context of ageing in place.
+PY 2019
+TC 23
+DI 10.1000/test.0147
+C1 [Zhang, Wei] Univ Test, USA
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on elderly care independent living ambient assisted living (148)
+SO SENSORS
+DE elderly care; independent living; ambient assisted living; internet of things; aging in place; solitary living; home automation; smart home
+ID wearable sensor; unobtrusive sensing; solitary living; home care; ambient assisted living
+AB This study investigates elderly care, independent living, ambient assisted living, internet of things, aging in place, solitary living, home automation, smart home in the context of ageing in place.
+PY 2023
+TC 1
+DI 10.1000/test.0148
+C1 [Zhang, Wei] Univ Test, England
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on smart home assistive technology home automation (149)
+SO GERONTOLOGIST
+DE smart home; assistive technology; home automation; sensor network
+ID solitary living; ambient assisted living; home automation; internet of things; affordance
+AB This study investigates smart home, assistive technology, home automation, sensor network in the context of ageing in place.
+PY 2023
+TC 5
+DI 10.1000/test.0149
+C1 [Zhang, Wei] Univ Test, South Korea
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12; Ref, A 13; Ref, A 14; Ref, A 15; Ref, A 16; Ref, A 17; Ref, A 18; Ref, A 19; Ref, A 20; Ref, A 21; Ref, A 22; Ref, A 23
+ER
+
+PT J
+AU Zhang, Wei; Liu, Yang; Chen, Hao
+TI Smart eldercare study on independent living solitary living elderly care (150)
+SO PERVASIVE MOB COMPUT
+DE independent living; solitary living; elderly care; aging in place
+ID independent living; vital signs; sensor network; wearable sensor; fall detection
+AB This study investigates independent living, solitary living, elderly care, aging in place in the context of ageing in place.
+PY 2021
+TC 10
+DI 10.1000/test.0150
+C1 [Zhang, Wei] Univ Test, Japan
+CR Ref, A 0; Ref, A 1; Ref, A 2; Ref, A 3; Ref, A 4; Ref, A 5; Ref, A 6; Ref, A 7; Ref, A 8; Ref, A 9; Ref, A 10; Ref, A 11; Ref, A 12
+ER
+
+EF

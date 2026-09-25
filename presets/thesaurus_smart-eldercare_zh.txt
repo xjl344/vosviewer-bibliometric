@@ -1,0 +1,164 @@
+label	replace by
+独居长者	独居老人
+独居老年	独居老人
+独居老年人	独居老人
+单身老人	独居老人
+独居	独居老人
+空巢老年人	独居老人
+空巢老人	独居老人
+空巢家庭	独居老人
+独居空巢老人	独居老人
+老年人独居	独居老人
+living alone	独居老人
+solitary living	独居老人
+智能养老	智慧养老
+智慧健康养老	智慧养老
+智慧养老服务	智慧养老
+智慧养老模式	智慧养老
+智能健康养老	智慧养老
+家庭养老	居家养老
+社区居家养老	居家养老
+居家养老服务	居家养老
+居家养老模式	居家养老
+原居安老	居家养老
+在地养老	居家养老
+aging in place	居家养老
+ageing in place	居家养老
+老龄化社会	人口老龄化
+老龄化	人口老龄化
+人口老化	人口老龄化
+积极老龄化	人口老龄化
+ageing	人口老龄化
+aging	人口老龄化
+智慧家庭	智能家居
+家庭智能化	智能家居
+智能家庭	智能家居
+智慧家居	智能家居
+智能家居系统	智能家居
+smart home	智能家居
+home automation	智能家居
+物联网技术	物联网
+物联网应用	物联网
+IoT	物联网
+IOT	物联网
+internet of things	物联网
+健康监护	健康监测
+健康监控	健康监测
+生理监测	健康监测
+健康监测系统	健康监测
+体征监测	健康监测
+health monitoring	健康监测
+智能穿戴	可穿戴设备
+可穿戴	可穿戴设备
+穿戴式设备	可穿戴设备
+可穿戴技术	可穿戴设备
+可穿戴传感器	可穿戴设备
+wearable device	可穿戴设备
+wearable sensor	可穿戴设备
+wearables	可穿戴设备
+跌倒识别	跌倒检测
+摔倒检测	跌倒检测
+跌倒检测系统	跌倒检测
+fall detection	跌倒检测
+生理参数	生命体征
+生理信号	生命体征
+生命体征监测	生命体征
+vital signs	生命体征
+远程监控	远程监护
+远程健康监护	远程监护
+远程健康监测	远程监护
+telemonitoring	远程监护
+remote monitoring	远程监护
+人体行为识别	行为识别
+动作识别	行为识别
+行为识别技术	行为识别
+activity recognition	行为识别
+human activity recognition	行为识别
+无接触交互	无感交互
+非接触式交互	无感交互
+无感知交互	无感交互
+无感式交互	无感交互
+unobtrusive sensing	无感交互
+non-intrusive sensing	无感交互
+contactless sensing	无感交互
+示能性	可供性
+可供性理论	可供性
+affordance	可供性
+affordances	可供性
+智能环境	环境智能
+环境智能技术	环境智能
+ambient intelligence	环境智能
+情景感知	情境感知
+上下文感知	情境感知
+语境感知	情境感知
+context awareness	情境感知
+context-aware	情境感知
+人机互动	人机交互
+人机交互设计	人机交互
+human-computer interaction	人机交互
+HCI	人机交互
+主动健康管理	主动健康
+主动健康模式	主动健康
+适老化	适老化改造
+适老性	适老化改造
+适老化设计	适老化改造
+无障碍改造	适老化改造
+助老技术	辅助技术
+辅助科技	辅助技术
+辅助技术应用	辅助技术
+assistive technology	辅助技术
+gerontechnology	辅助技术
+老年护理	老年照护
+养老照护	老年照护
+长期照护	老年照护
+老年护理服务	老年照护
+elderly care	老年照护
+aged care	老年照护
+传感器	传感器网络
+传感网络	传感器网络
+无线传感器网络	传感器网络
+sensor network	传感器网络
+养老服务需求	养老需求
+养老需求分析	养老需求
+社区居家养老服务	社区养老
+智能设备	智能终端
+智能终端设备	智能终端
+异常检测	异常行为预警
+异常行为检测	异常行为预警
+非接触式监测	无感交互
+隐形智能	环境智能
+情绪识别	行为识别
+影响因素	
+研究进展	
+研究综述	
+文献综述	
+研究现状	
+现状与对策	
+对策建议	
+发展对策	
+启示	
+综述	
+述评	
+研究展望	
+未来展望	
+挑战与机遇	
+应用现状	
+系统设计	
+设计与实现	
+研究热点	
+可视化分析	
+文献计量分析	
+知识图谱	
+研究趋势	
+案例分析	
+survey	
+review	
+systematic review	
+literature review	
+research trends	
+future directions	
+state of the art	
+bibliometric analysis	
+case study	
+challenges	
+opportunities	
