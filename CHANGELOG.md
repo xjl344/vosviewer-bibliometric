@@ -2,6 +2,24 @@
 
 本项目遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [1.0.1] — 2026-09-25
+
+### 修复
+
+- **Windows 上输出中文崩溃**（CI 在 windows-latest 上失败）
+  - 现象：脚本启动即抛 `UnicodeEncodeError: 'charmap' codec can't encode characters`
+  - 原因：Windows 控制台默认使用 ANSI 代码页（英文系统为 cp1252），
+    无法编码中文；本地开发环境恰好是 UTF-8 所以没暴露
+  - 修复：全部 7 个入口脚本在导入后立即执行
+    `sys.stdout.reconfigure(encoding="utf-8", errors="replace")`，
+    并在工作流中设置 `PYTHONIOENCODING=utf-8` 作为第二道保险
+  - 影响范围：`run_pipeline.py`、`setup_runtime.py`、`fetch_pubmed.py`、
+    `fetch_openalex.py`、`make_testdata.py`、`make_testdata_cnki.py`、
+    `tests/test_parsers.py`
+
+> 这是本项目第 13 个问题，也是第一个**由 CI 而非真实数据暴露**的问题——
+> 说明跨平台 CI 的价值：本地全绿不等于用户环境全绿。
+
 ## [1.0.0] — 2026-09-24
 
 首个公开版本。

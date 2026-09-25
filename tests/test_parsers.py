@@ -20,6 +20,13 @@ from __future__ import annotations
 import os
 import sys
 
+# Windows 控制台默认使用 ANSI 代码页（如 cp1252），直接 print 中文会抛
+# UnicodeEncodeError 导致脚本崩溃。统一改用 UTF-8，并让无法编码的字符
+# 降级为替代符而不是中断执行。
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 sys.path.insert(0, os.path.join(ROOT, "scripts"))

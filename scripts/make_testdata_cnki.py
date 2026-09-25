@@ -18,6 +18,12 @@ import os
 import random
 import sys
 
+# Windows 控制台默认使用 ANSI 代码页（如 cp1252），直接 print 中文会抛
+# UnicodeEncodeError 导致脚本崩溃。统一改用 UTF-8，并让无法编码的字符
+# 降级为替代符而不是中断执行。
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 random.seed(20260923)
 
 # 四个中文主题群落
