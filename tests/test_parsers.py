@@ -224,6 +224,27 @@ check("循环映射已打破（older* 归一）", len(_older) == 1, str(_older))
 check("映射链 a→b,b→c 解析为 a→c", T._resolve_chains({"x": "y", "y": "z"}) == {"x": "z", "y": "z"})
 check("环 a↔b 被打破", set(T._resolve_chains({"a": "b", "b": "a"}).keys()) <= {"a", "b"})
 
+# 回归：映射到「被剔除词」的关键词也必须被剔除
+#
+# 曾经的漏洞：transform() 只检查原词是否在剔除列表里，
+# 映射结果却不再检查。于是预设表把「智慧养老服务」映射成「智慧养老」后，
+# 即使用户用 --exclude-terms 剔除了「智慧养老」，该词仍会重新混进网络。
+_docs_drop = [
+    ["智慧养老服务", "老年人"],
+    ["智慧养老", "护理"],
+    ["养老服务", "社区养老"],
+]
+_merged_drop, _, _st = T.merge_terms(
+    _docs_drop,
+    manual_rules={"智慧养老服务": "智慧养老", "养老服务": "智慧养老"},
+    drop_terms={"智慧养老"},
+)
+_after_drop = Counter(k for d in _merged_drop for k in set(d))
+check("映射到被剔除词的关键词也一并剔除",
+      "智慧养老" not in _after_drop, str(dict(_after_drop)))
+check("剔除后其余关键词保留",
+      "老年人" in _after_drop and "护理" in _after_drop, str(dict(_after_drop)))
+
 # 超几何检验
 _p0 = N._hypergeom_tail(120, 20, 19, 0)
 check("超几何 P(≤0) 在合理范围", 0.0 < _p0 < 0.5, f"得到 {_p0:.4f}")

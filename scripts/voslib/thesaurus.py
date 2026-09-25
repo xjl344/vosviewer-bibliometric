@@ -329,6 +329,16 @@ def merge_terms(term_lists: list[list[str]],
         if target is None and case_insensitive:
             target = mapping.get(normalize(t))
         if target and target != t:
+            # 关键：映射后的目标词也要过一遍剔除检查。
+            #
+            # 否则会出现这种漏洞：预设表把「智慧养老服务」映射成「智慧养老」，
+            # 而调用方用 --exclude-terms 剔除了「智慧养老」——
+            # 原词躲过了第一道检查，映射结果却没人管，
+            # 被剔除的词就通过这条路径重新混进网络。
+            # 实测真实数据踩到过：剔除「智慧养老」后图上仍有该节点。
+            if normalize(target) in drop_norm:
+                stats["dropped"] += 1
+                return None
             stats["merged"] += 1
             return target
         stats["kept"] += 1

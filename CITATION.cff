@@ -7,7 +7,7 @@ abstract: >-
   三视图导出（网络/叠加/密度）、以及含方法学段落与研究空白显著性检验的分析报告。
   支持 10 种文献格式，含 CNKI 中文文献的完整适配。
 type: software
-version: 1.0.1
+version: 1.0.2
 date-released: "2026-09-24"
 license: MIT
 repository-code: "https://github.com/xjl344/vosviewer-bibliometric"
@@ -28,7 +28,7 @@ preferred-citation:
   type: software
   title: "VOSviewer Bibliometric: Automated keyword co-occurrence analysis"
   year: 2026
-  version: 1.0.1
+  version: 1.0.2
   authors:
     - family-names: "Xie"
       given-names: "Junlei"
